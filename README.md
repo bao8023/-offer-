@@ -1,2 +1,1 @@
-# -offer-
-Continually updated
+# Continually updated
